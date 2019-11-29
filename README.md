@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This repository contains sample linting configs for, .js and .ts files. Currently they are all based on recommended configs.
+This repository contains sample linting configs for, .js and .ts files. Currently they are all based on recommended configs, prettier and AirBnB.
 
 ## How to use
 
-### Installing (automatic)
+### Installing
 
 To install this repo, run:
 
