@@ -1,18 +1,19 @@
 {
-  "name": "@yulian.alexeyev/eslint-config-intracto",
-  "version": "0.1.4",
+  "name": "@intracto/eslint-config-intracto",
+  "version": "0.1.5",
   "description": "ESLint presets for Intracto internal code and projects",
   "keywords": [
     "eslint"
   ],
-  "homepage": "https://github.com/ioulian/eslint-config-intracto",
-  "bugs": "https://github.com/ioulian/eslint-config-intracto/issues",
+  "homepage": "https://github.com/Intracto/eslint-config-intracto",
+  "bugs": "https://github.com/Intracto/eslint-config-intracto/issues",
   "main": "js/index.js",
-  "author": "Yulian Alexeyev <yulian@dev-q.be> (http://dev-q.be/)",
+  "author": "Intracto <info@intracto.com> (https://www.intracto.com/)",
   "contributors": [
     {
-      "name": "Intracto",
-      "url": "https://www.intracto.com/"
+      "name": "Yulian Alexeyev",
+      "url": "http://dev-q.be/",
+      "email": "yulian@dev-q.be"
     }
   ],
   "files": [
