@@ -1,6 +1,6 @@
 {
   "name": "@intracto/eslint-config-intracto",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "ESLint presets for Intracto internal code and projects",
   "keywords": [
     "eslint"
