@@ -11,8 +11,7 @@ This repository contains sample linting configs for, .js and .ts files. Currentl
 To install this repo, run:
 
 ```bash
-yarn global add install-peerdeps
-install-peerdeps --dev "@intracto/eslint-config-intracto"
+yarn add @intracto/eslint-config-intracto
 ```
 
 And then create a file `.eslintrc.json`. Add this config if your codebase is based on VanillaJS/ES6:
